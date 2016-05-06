@@ -1,6 +1,7 @@
 Project: binaryTree
 
 Author: Ahmad Alwazzan
+
 Uploaded Date: May 06, 2016
 
 The purpose of this project is to create a basic binary tree as taught in data structure classes, but the implementation is a little bit too complicated for what it does.
